@@ -28,7 +28,9 @@ namespace pyramid
         //the point where the program is run
         static void Main(string[] args)
         {
-            DrawPyramid(4);
+            int x;
+            x = Convert.ToInt32(Console.ReadLine());
+            DrawPyramid(x);
             
         }
     }
