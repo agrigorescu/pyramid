@@ -31,7 +31,8 @@ namespace pyramid
             int x;
             x = Convert.ToInt32(Console.ReadLine());
             DrawPyramid(x);
-            
+
+            Console.ReadLine();
         }
     }
 }
