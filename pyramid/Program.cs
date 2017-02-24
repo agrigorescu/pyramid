@@ -8,6 +8,13 @@ namespace pyramid
 {
     class Program
     {
+        static void DrawPyramid(int n)
+        {
+            //some code will go here
+
+        }
+
+        //the point where the program is run
         static void Main(string[] args)
         {
         }
